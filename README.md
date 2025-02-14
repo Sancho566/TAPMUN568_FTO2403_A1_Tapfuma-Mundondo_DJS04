@@ -1,7 +1,5 @@
 # DJS04 Project Brief: Book Connect - Web Components
 
-[Loom Video Presentation:https://www.loom.com/share/06c59ee0de6a41c4bd933217415fb926?sid=4e52b7bc-b817-4326-8fd3-a8d3f2e2bf9e]
-
 Building upon your "Book Connect" project in DJS03, you will now dive into Web Components. This challenge will refine your skills in creating reusable, encapsulated, and interactive elements.
 
 🚨**NOTE** Here you are to continue where you left off in DJS03. This means you must build on your abstractions and work on transforming the Book Preview functionality into a web component🚨
